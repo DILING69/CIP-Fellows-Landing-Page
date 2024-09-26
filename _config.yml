@@ -7,7 +7,7 @@ description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
 baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+url: "https://cip-fellows.sdsc.edu/"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
@@ -86,11 +86,11 @@ collections:
     image: https://via.placeholder.com/800x600
     show_sidebar: false
 
-social:
-  facebook: https://www.facebook.com/
-  instagram: https://www.instagram.com/
-  threads: https://www.threads.net/
-  tiktok: https://www.tiktok.com/
-  x: https://www.x.com/
-  youtube: https://www.youtube.com/
+# social:
+#   facebook: https://www.facebook.com/
+#   instagram: https://www.instagram.com/
+#   threads: https://www.threads.net/
+#   tiktok: https://www.tiktok.com/
+#   x: https://www.x.com/
+#   youtube: https://www.youtube.com/
   
