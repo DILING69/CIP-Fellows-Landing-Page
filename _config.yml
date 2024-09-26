@@ -1,11 +1,11 @@
 # Site Settings
 lang: en
-title: CIP - Cyberinfrastracture Professional
-name: CIP - Cyberinfrastracture Professional
+title: "CIP - Cyberinfrastracture Professional"
+name: "CIP - Cyberinfrastracture Professional"
 tagline: CIP - Cyberinfrastracture Professional
 email: your-email@domain.com
 description: >
-  GitHub page for the Project CyberTraining: CIP: Training and Developing a Research Computing and Data (RCD) CI Professionals Community
+  "GitHub page for the Project CyberTraining: CIP: Training and Developing a Research Computing and Data (RCD) CI Professionals Community"
 remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
 baseurl: ""
 url: "https://cip-fellows.sdsc.edu/"
