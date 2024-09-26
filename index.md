@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: "CIP - Cyberinfrastracture Professional"
+subtitle: "GitHub page for the Project CyberTraining: CIP: Training and Developing a Research Computing and Data (RCD) CI Professionals Community"
 layout: page
 callouts: home_callouts
 show_sidebar: true
