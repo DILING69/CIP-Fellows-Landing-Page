@@ -1,19 +1,19 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: CIP - Cyberinfrastracture Professional
+tagline: CIP - Cyberinfrastracture Professional
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  GitHub page for the Project CyberTraining: CIP: Training and Developing a Research Computing and Data (RCD) CI Professionals Community
 remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
-baseurl: "/bulma-clean-theme"
+baseurl: ""
 url: "https://cip-fellows.sdsc.edu/"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+# gh_sponsor: chrisrhymes
 #hide_share_buttons: true
-#theme_color: '#eeeeee'
-#fixed_navbar: top
+theme_color: '#36597d'
+fixed_navbar: top
 #direction: one of <ltr, rtl, auto>, default: ltr
 force_theme: light
 
