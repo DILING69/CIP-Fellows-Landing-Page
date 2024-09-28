@@ -10,7 +10,7 @@ remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
 baseurl: ""
 url: "https://cip-fellows.sdsc.edu/"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /cip_logo.png
 # gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 theme_color: '#36597d'
