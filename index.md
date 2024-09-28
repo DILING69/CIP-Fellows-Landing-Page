@@ -2,7 +2,7 @@
 title: "CIP - Cyberinfrastracture Professional"
 subtitle: "A joint program between UC San Diego, San Diego State and CSU San Bernardino partners to develop a CIP workforce. "
 layout: page
-callouts: home_callouts
+callouts: #home_callouts
 show_sidebar: false
 ---
 
