@@ -57,7 +57,7 @@ Set the showcase in the page's front matter to be the name of the showcase data 
 title: Showcase
 subtitle: An example showcase page
 layout: page
-showcase: showcase_example
+showcase: #showcase_example
 show_sidebar: false
 ```
 
